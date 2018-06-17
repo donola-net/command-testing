@@ -1,3 +1,3 @@
 # Command Testing
 
-Testing some git stuff
+Changing some git stuff
